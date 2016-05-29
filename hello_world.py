@@ -37,5 +37,5 @@ def jedi_name(first_name,last_name):
 if __name__ == "__main__":
     app.run(host=environ['IP'],
             port=int(environ['PORT']))
-            
-#print("Hello World!")
+
+print("Hello World!")
